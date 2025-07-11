@@ -114,34 +114,26 @@ Cada elemento tem uma representação visual específica:
 - **Círculos**: Interfaces e pontos de junção
 - **Cores**: Identificam as camadas (amarelo=negócio, azul=aplicação, verde=tecnologia)
 
-## Exemplo Prático
+## Exemplo Prático: Sistema de Biblioteca
 
-Vamos ver como isso funciona na prática com um exemplo de sistema de biblioteca:
+Para demonstrar como o ArchiMate funciona na prática, vamos usar como exemplo um sistema de biblioteca completo:
 
-![Exemplo Prático - Sistema de Biblioteca](library-system-example.png)
+![Sistema de Biblioteca - Modelo ArchiMate](library-system-complete.png)
 
-### Camada de Negócio
-- **Atores**: Funcionário, Atendente, Usuários, Colaborador, Fornecedores
-- **Processos**: Adquirir livros, Cadastrar usuários, Cadastrar livros, Reservar, Emprestar, Devolver
-- **Serviços**: Cadastramento, Atendimento
+Este modelo integra todas as camadas do ArchiMate:
+- **Negócio**: Atores, processos e serviços da biblioteca
+- **Aplicação**: Sistema de gerenciamento e dados
+- **Tecnologia**: Infraestrutura híbrida (on-premise + cloud)
 
-### Camada de Aplicação  
-- **Aplicação**: SGB (Sistema de Gerenciamento da Biblioteca)
-- **Dados**: Banco de Dados
-- **Serviço**: Gerenciamento da biblioteca
-
-### Camada de Tecnologia
-- **Infraestrutura**: Processamento
-- **Componentes Físicos**: 
-  - **On-premise**: Micro-computador (Windows, Office, SSD), Provedor de internet, VPN
-  - **Cloud**: DNS, Firewall, Servidor de aplicação, SGBD, Storage, DB
-
-### 🔗 Relacionamentos
+### 🔗 Relacionamentos Entre Camadas
 O diagrama mostra como:
 - Processos de negócio **usam** aplicações
 - Aplicações **acessam** dados
 - Aplicações **executam** em infraestrutura
 - Serviços **expõem** funcionalidades entre camadas
+
+### 🎯 Hands-On Prático
+**Ao final do curso, você irá modelar este sistema completo passo a passo**, aplicando todos os conceitos e técnicas aprendidas. Será uma oportunidade de consolidar o conhecimento criando um modelo real e funcional.
 
 ## Diferença Entre Desenhos e Modelos
 
@@ -195,4 +187,4 @@ Este material foi desenvolvido para apoiar times de arquitetura de soluções na
 - Framework simples mas abrangente
 - Várias atualizações e melhorias ao longo dos anos
 
-**Próxima aula**: Elementos e relacionamentos detalhados do ArchiMate
+**Próxima aula**: Extensões da linguagem ArchiMate - conceitos avançados, elementos especializados e técnicas de modelagem para cenários complexos
