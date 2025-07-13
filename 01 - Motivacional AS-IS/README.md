@@ -56,5 +56,5 @@ A biblioteca busca modernizar sua operação, substituindo as planilhas por um *
 ---
 
 ## ➡️ Próximos Passos
-- Modelagem **TO-BE** (estado futuro) com a proposta do novo sistema.
+- Modelagem Motivacional **TO-BE**  com a proposta do novo sistema. | [02 - Motivacional TO-BE](https://github.com/EvelineMatos/archimate-solution-architects/blob/main/02-motivacional-to-be) |
 - Visão em camadas (AS-IS e TO-BE) para detalhamento técnico.

@@ -14,7 +14,7 @@ Desenvolver modelos de arquitetura empresarial que representem a situação atua
 |-----------|-----------|--------|
 | [01 - Motivacional AS-IS](https://github.com/EvelineMatos/archimate-solution-architects/tree/main/01%20-%20Motivacional%20AS-IS) | Modelo da situação atual com stakeholders, drivers, assessments e processos | ✅ |
 | [02 - Motivacional TO-BE](https://github.com/EvelineMatos/archimate-solution-architects/blob/main/02-motivacional-to-be) | Modelo futuro com objetivos e requisitos | ✅ |
-| [03 - Visão em Camadas AS-IS](./03-visao-camadas-as-is/) | Arquitetura atual em camadas (Negócios, Aplicação, Infraestrutura) | ✅ |
+| [03 - Visão em Camadas AS-IS](https://github.com/EvelineMatos/archimate-solution-architects/tree/main/03%20-%20Vis%C3%A3o%20em%20Camadas%20AS-IS) | Arquitetura atual em camadas (Negócios, Aplicação, Infraestrutura) | ✅ |
 | [04 - Visão em Camadas TO-BE](./04-visao-camadas-to-be/) | Arquitetura futura com novo sistema e infraestrutura em nuvem | ✅ |
 
 ## 🏛️ Cenário da Biblioteca
