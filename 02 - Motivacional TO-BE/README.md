@@ -42,7 +42,7 @@ Este diretório contém a modelagem **TO-BE** (estado futuro desejado) para mode
 ---
 
 ## 🖼️ **Diagrama TO-BE**
-![Modelo Motivacional TO-BE](assets/modelo-motivacional-to-be.jpg)  
+![Modelo Motivacional TO-BE](assets/Motivacional%20TO-BE.jpg)  
 *(Visão estratégica com objetivos, requisitos e relações entre stakeholders.)*
 
 ---
