@@ -12,7 +12,7 @@ Desenvolver modelos de arquitetura empresarial que representem a situação atua
 
 | Exercício | Descrição | Status |
 |-----------|-----------|--------|
-| [01 - Motivacional AS-IS](./01-motivacional-as-is/) | Modelo da situação atual com stakeholders, drivers, assessments e processos | ✅ |
+| [01 - Motivacional AS-IS](https://github.com/EvelineMatos/archimate-solution-architects/tree/main/01%20-%20Motivacional%20AS-IS) | Modelo da situação atual com stakeholders, drivers, assessments e processos | ✅ |
 | [02 - Motivacional TO-BE](./02-motivacional-to-be/) | Modelo da situação futura com objetivos, princípios e requisitos | ✅ |
 | [03 - Visão em Camadas AS-IS](./03-visao-camadas-as-is/) | Arquitetura atual em camadas (Negócios, Aplicação, Infraestrutura) | ✅ |
 | [04 - Visão em Camadas TO-BE](./04-visao-camadas-to-be/) | Arquitetura futura com novo sistema e infraestrutura em nuvem | ✅ |
