@@ -1,0 +1,118 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- TOGAF ADM Arrow -->
+  <path d="M 50 150 L 200 150 L 180 130 M 200 150 L 180 170" stroke="#4472C4" stroke-width="3" fill="none"/>
+  <rect x="60" y="120" width="120" height="60" rx="5" fill="#4472C4"/>
+  <text x="120" y="155" text-anchor="middle" fill="white" font-family="Arial" font-size="16" font-weight="bold">TOGAF ADM</text>
+  
+  <!-- Central circle - Gerenciamento de Requisitos -->
+  <circle cx="350" cy="200" r="45" fill="#9B7BB8"/>
+  <text x="350" y="195" text-anchor="middle" fill="white" font-family="Arial" font-size="10" font-weight="bold">Gerenciamento</text>
+  <text x="350" y="207" text-anchor="middle" fill="white" font-family="Arial" font-size="10" font-weight="bold">de Requisitos</text>
+  
+  <!-- Phase circles around central -->
+  <!-- Preparação -->
+  <circle cx="350" cy="120" r="35" fill="#9B7BB8"/>
+  <text x="350" y="125" text-anchor="middle" fill="white" font-family="Arial" font-size="9" font-weight="bold">Preparação</text>
+  
+  <!-- A - Visão da Arquitetura -->
+  <circle cx="280" cy="150" r="30" fill="#9B7BB8"/>
+  <text x="280" y="145" text-anchor="middle" fill="white" font-family="Arial" font-size="8">A</text>
+  <text x="280" y="155" text-anchor="middle" fill="white" font-family="Arial" font-size="7">Visão da</text>
+  <text x="280" y="163" text-anchor="middle" fill="white" font-family="Arial" font-size="7">Arquitetura</text>
+  
+  <!-- B - Arquitetura de Negócio -->
+  <circle cx="420" cy="140" r="30" fill="#90EE90"/>
+  <text x="420" y="135" text-anchor="middle" fill="black" font-family="Arial" font-size="8">B</text>
+  <text x="420" y="145" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Arquitetura</text>
+  <text x="420" y="153" text-anchor="middle" fill="black" font-family="Arial" font-size="7">de Negócio</text>
+  
+  <!-- C - Sistemas de Informação -->
+  <circle cx="450" cy="200" r="30" fill="#87CEEB"/>
+  <text x="450" y="195" text-anchor="middle" fill="black" font-family="Arial" font-size="8">C</text>
+  <text x="450" y="205" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Sistemas de</text>
+  <text x="450" y="213" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Informação</text>
+  
+  <!-- D - Arquitetura Tecnológica -->
+  <circle cx="420" cy="260" r="30" fill="#90EE90"/>
+  <text x="420" y="255" text-anchor="middle" fill="black" font-family="Arial" font-size="8">D</text>
+  <text x="420" y="265" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Arquitetura</text>
+  <text x="420" y="273" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Tecnológica</text>
+  
+  <!-- E - Oportunidades e Soluções -->
+  <circle cx="350" cy="280" r="30" fill="#FFB6C1"/>
+  <text x="350" y="275" text-anchor="middle" fill="black" font-family="Arial" font-size="8">E</text>
+  <text x="350" y="285" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Oportunidades</text>
+  <text x="350" y="293" text-anchor="middle" fill="black" font-family="Arial" font-size="7">e Soluções</text>
+  
+  <!-- F - Planejamento de Migração -->
+  <circle cx="280" cy="250" r="30" fill="#FFB6C1"/>
+  <text x="280" y="245" text-anchor="middle" fill="black" font-family="Arial" font-size="8">F</text>
+  <text x="280" y="255" text-anchor="middle" fill="black" font-family="Arial" font-size="7">Planejamento</text>
+  <text x="280" y="263" text-anchor="middle" fill="black" font-family="Arial" font-size="7">de Migração</text>
+  
+  <!-- G - Governança da Implementação -->
+  <circle cx="250" cy="200" r="30" fill="#FFB6C1"/>
+  <text x="250" y="190" text-anchor="middle" fill="black" font-family="Arial" font-size="8">G</text>
+  <text x="250" y="200" text-anchor="middle" fill="black" font-family="Arial" font-size="6">Governança da</text>
+  <text x="250" y="210" text-anchor="middle" fill="black" font-family="Arial" font-size="6">Implementação</text>
+  
+  <!-- H - Gerenciamento da Mudança da Arquitetura -->
+  <circle cx="280" cy="150" r="25" fill="#9B7BB8"/>
+  <text x="280" y="145" text-anchor="middle" fill="white" font-family="Arial" font-size="8">H</text>
+  <text x="280" y="155" text-anchor="middle" fill="white" font-family="Arial" font-size="6">Mudança da</text>
+  <text x="280" y="163" text-anchor="middle" fill="white" font-family="Arial" font-size="6">Arquitetura</text>
+  
+  <!-- Connecting lines between central and phases -->
+  <line x1="350" y1="155" x2="350" y2="120" stroke="#666" stroke-width="2"/>
+  <line x1="320" y1="175" x2="280" y2="150" stroke="#666" stroke-width="2"/>
+  <line x1="380" y1="175" x2="420" y2="140" stroke="#666" stroke-width="2"/>
+  <line x1="395" y1="200" x2="450" y2="200" stroke="#666" stroke-width="2"/>
+  <line x1="380" y1="225" x2="420" y2="260" stroke="#666" stroke-width="2"/>
+  <line x1="350" y1="245" x2="350" y2="280" stroke="#666" stroke-width="2"/>
+  <line x1="320" y1="225" x2="280" y2="250" stroke="#666" stroke-width="2"/>
+  <line x1="305" y1="200" x2="250" y2="200" stroke="#666" stroke-width="2"/>
+  
+  <!-- Double arrow to ArchiMate framework -->
+  <path d="M 500 180 L 520 180 M 515 175 L 520 180 L 515 185" stroke="#666" stroke-width="2" fill="none"/>
+  <path d="M 520 220 L 500 220 M 505 215 L 500 220 L 505 225" stroke="#666" stroke-width="2" fill="none"/>
+  
+  <!-- ArchiMate Framework -->
+  <rect x="540" y="100" width="220" height="200" fill="white" stroke="#333" stroke-width="2"/>
+  
+  <!-- Headers -->
+  <text x="550" y="125" font-family="Arial" font-size="10" font-weight="bold">Estrutura</text>
+  <text x="550" y="135" font-family="Arial" font-size="10" font-weight="bold">Passiva</text>
+  
+  <text x="620" y="125" font-family="Arial" font-size="10" font-weight="bold">Comportamento</text>
+  
+  <text x="690" y="125" font-family="Arial" font-size="10" font-weight="bold">Estrutura</text>
+  <text x="690" y="135" font-family="Arial" font-size="10" font-weight="bold">Ativa</text>
+  
+  <text x="720" y="125" font-family="Arial" font-size="10" font-weight="bold">Motivação</text>
+  
+  <!-- Layer labels -->
+  <text x="550" y="165" font-family="Arial" font-size="12" font-weight="bold">Negócio</text>
+  <text x="550" y="195" font-family="Arial" font-size="12" font-weight="bold">Aplicação</text>
+  <text x="550" y="225" font-family="Arial" font-size="12" font-weight="bold">Tecnologia</text>
+  <text x="550" y="265" font-family="Arial" font-size="10" font-weight="bold">Implementação &</text>
+  <text x="550" y="275" font-family="Arial" font-size="10" font-weight="bold">Migração</text>
+  
+  <!-- Grid lines -->
+  <line x1="590" y1="140" x2="590" y2="290" stroke="#ccc" stroke-width="1"/>
+  <line x1="650" y1="140" x2="650" y2="290" stroke="#ccc" stroke-width="1"/>
+  <line x1="710" y1="140" x2="710" y2="290" stroke="#ccc" stroke-width="1"/>
+  
+  <line x1="540" y1="170" x2="760" y2="170" stroke="#ccc" stroke-width="1"/>
+  <line x1="540" y1="200" x2="760" y2="200" stroke="#ccc" stroke-width="1"/>
+  <line x1="540" y1="230" x2="760" y2="230" stroke="#ccc" stroke-width="1"/>
+  <line x1="540" y1="250" x2="760" y2="250" stroke="#ccc" stroke-width="1"/>
+  
+  <!-- Color coding for layers -->
+  <rect x="590" y="140" width="120" height="30" fill="#90EE90" opacity="0.3"/>
+  <rect x="590" y="170" width="120" height="30" fill="#87CEEB" opacity="0.3"/>
+  <rect x="590" y="200" width="120" height="30" fill="#98FB98" opacity="0.3"/>
+  <rect x="590" y="230" width="120" height="50" fill="#DDA0DD" opacity="0.3"/>
+</svg>
