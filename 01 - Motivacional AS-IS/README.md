@@ -41,7 +41,7 @@ Este diretório contém a modelagem **AS-IS** (estado atual) do cenário da bibl
 ---
 
 ## 🖼️ Diagrama AS-IS
-![Modelo Motivacional AS-IS](assets/Motivacional AS-IS.JPG)  
+![Modelo Motivacional TO-BE](assets/Motivacional%20AS-IS.jpg)   
 *(Diagrama ilustrando os stakeholders, drivers, processos e problemas atuais.)*
 
 ---
