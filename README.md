@@ -95,8 +95,6 @@ graph LR
     B --> C[Visão em Camadas AS-IS]
     C --> D[Motivacional TO-BE]
     D --> E[Visão em Camadas TO-BE]
-    E --> F[Análise de Gap]
-    F --> G[Roadmap de Implementação]
 ```
 
 ## 👨🏫 Créditos
